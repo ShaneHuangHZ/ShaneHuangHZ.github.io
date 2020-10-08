@@ -242,7 +242,7 @@ $( "#contactForm" ).submit( function( e ) {
     $.ajax( {
 
         // Change the email address here:
-        url: "https://formspree.io/626624200@qq.com",
+        url: "https://formspree.io/jan.czizikow@Fmail.com",
         method: "POST",
         data: $( this ).serialize(),
         dataType: "json",
